@@ -35,7 +35,7 @@ This project was developed as part of my learning to explore and apply advanced 
 ✅ Handling beforeunload events for page exit confirmation
 
 
-👉 click here to see the live demo-->https://nanthakumar-m.github.io/Bankist-Website_for_fictional_bank-Javascript/
+🔗👉 click here to see the live demo-->https://nanthakumar-m.github.io/Bankist-Website_for_fictional_bank-Javascript/
 
 
 ## 📸 Screenshots

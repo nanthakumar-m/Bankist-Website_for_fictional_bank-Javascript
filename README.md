@@ -16,7 +16,7 @@ This project was developed as part of my learning to explore and apply advanced 
 - CSS3
 - JavaScript
 
-## 🎯 Learning Objectives / Concepts Practiced
+## 🎯 What I Gained / Concepts Practiced
 
 ✅ Event Delegation for efficient event handling
 

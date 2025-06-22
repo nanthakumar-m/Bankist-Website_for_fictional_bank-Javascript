@@ -40,6 +40,15 @@ This project was developed as part of my learning to explore and apply advanced 
 
 ## 📸 Screenshots
 
-![nanthakumar-m github io_Bankist-Website_for_fictional_bank-Javascript_ (1)](https://github.com/user-attachments/assets/de1c4f2b-8e76-417d-8b51-44315ae9194f)
+![image](https://github.com/user-attachments/assets/9c16e2fb-f352-4027-9a31-b1a2a0b5082a)
+
+![image](https://github.com/user-attachments/assets/c77bc578-6661-4265-9459-389eb1e18bfc)
+
+![image](https://github.com/user-attachments/assets/4b525bd4-4820-461c-a796-4bc26f670a37)
+
+![image](https://github.com/user-attachments/assets/8dee8101-1854-4b20-8a41-71f139e40475)
+
+![image](https://github.com/user-attachments/assets/9d202ca7-c5f9-4342-a96b-95599b665fd5)
+
 
 

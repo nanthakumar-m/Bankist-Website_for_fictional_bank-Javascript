@@ -10,27 +10,18 @@ This project was developed as part of my learning to explore and apply advanced 
 - CSS3
 - JavaScript (ES6+)
 
-****Learning Objectives / Concepts Practiced
+## 🎯 Learning Objectives / Concepts Practiced
+
 ✅ Event Delegation for efficient event handling
-
 ✅ DOM Manipulation (creating, inserting, deleting elements dynamically)
-
 ✅ Event Listeners (click, keydown, mouseover, scroll, etc.)
-
 ✅ Smooth Scrolling using scrollIntoView
-
 ✅ Tabbed Components using event delegation
-
 ✅ Menu Fade Animation using mouse events
-
 ✅ Sticky Navigation with the Intersection Observer API
-
 ✅ Reveal Sections on Scroll for a smooth user experience
-
 ✅ Lazy Loading Images for performance optimization
-
 ✅ Slider Component implementation
-
 ✅ Handling beforeunload events for page exit confirmation
 
 👉 click here to see the live demo-->https://nanthakumar-m.github.io/Bankist-Website_for_fictional_bank-Javascriptk/

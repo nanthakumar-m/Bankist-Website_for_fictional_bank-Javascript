@@ -37,6 +37,10 @@ This project was developed as part of my learning to explore and apply advanced 
 
 🔗👉 click here to see the live demo-->https://nanthakumar-m.github.io/Bankist-Website_for_fictional_bank-Javascript/
 
+🚫 Note: This website is not responsive and is best viewed on desktop screens.
+
+
+
 
 ## 📸 Screenshots
 

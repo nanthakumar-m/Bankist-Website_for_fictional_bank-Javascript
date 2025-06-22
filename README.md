@@ -38,7 +38,7 @@ This project was developed as part of my learning to explore and apply advanced 
 👉 click here to see the live demo-->https://nanthakumar-m.github.io/Bankist-Website_for_fictional_bank-Javascript/
 
 
-## Screenshots
+## 📸 Screenshots
 
 ![nanthakumar-m github io_Bankist-Website_for_fictional_bank-Javascript_ (1)](https://github.com/user-attachments/assets/de1c4f2b-8e76-417d-8b51-44315ae9194f)
 

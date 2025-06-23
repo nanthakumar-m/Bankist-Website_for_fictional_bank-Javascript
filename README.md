@@ -1,6 +1,6 @@
 # 🏦 Bankist - Fictional Banking Website
 
-Bankist Website is a modern, fully responsive showcase landing page for a fictional bank, built using HTML, CSS, and vanilla JavaScript. The purpose of this project is to simulate a real-world bank's front-end website and demonstrate various interactive UI features.
+Bankist Website is a modern, showcase landing page for a fictional bank, built using HTML, CSS, and vanilla JavaScript. The purpose of this project is to simulate a real-world bank's front-end website and demonstrate various interactive UI features.
 
 This project was developed as part of my learning to explore and apply advanced DOM manipulation techniques, event delegation, and scroll-based animations in a clean, performant way.
 
